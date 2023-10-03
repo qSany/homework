@@ -77,6 +77,7 @@ public class Homework {
         System.out.println(" Всего работников в компании " + sotrudnik + "человек" );
 
 
+
         var sotrudnik3 = 94;
         var sotrudnik4 = 80;
         var sotrudnik5 = sotrudnik3 + sotrudnik4;
