@@ -58,6 +58,7 @@ public class Homework {
         System.out.println(" разницу между массами бойцов" + massa2 + " кг ");
 
 
+
         var boks6 = 82.7;
         var boks5 = 78.2;
         var massa3 = boks6 - boks5;
