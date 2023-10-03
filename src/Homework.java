@@ -1,4 +1,4 @@
-public class Homework111 {
+public class Homework {
     public static void main(String[] args) {
         var dog = 8.0;
         System.out.println(dog);
