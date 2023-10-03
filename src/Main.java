@@ -70,13 +70,13 @@ public class Homework {
 
         var sotrudnik1 = 640;
         var sotrudnik2 = 8;
-        var sotrudnik = sotrudnik1 / sotrudnik2 ;
+        var sotrudnik = sotrudnik1 / sotrudnik2;
         System.out.println(" Всего работников в компании " + sotrudnik + "человек" );
 
 
         var sotrudnik3 = 94;
         var sotrudnik4 = 80;
-        var sotrudnik5 = sotrudnik3 + sotrudnik4 ;
+        var sotrudnik5 = sotrudnik3 + sotrudnik4;
         System.out.println(" Если в компании работает " + sotrudnik5 + "человек" );
 
 
